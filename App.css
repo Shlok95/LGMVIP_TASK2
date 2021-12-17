@@ -1,0 +1,83 @@
+body{
+  background: url(E:\LGM_Task 2\src\Starry Night.jpg)
+  
+}
+
+
+
+button{
+color: whitesmoke;
+font-weight: 600;
+float: right;
+border-radius: 23px;
+border: none;
+background-color: #004aad;
+padding: 12px 10px;
+margin-top: -50px;
+}
+button:hover{
+  transition: 200ms;
+ scale:1.03;
+ background-color: rgb(15, 202, 202);
+}
+
+.column-1{
+  height: 100%;
+  float: center;
+  width: 90%;
+}
+.column-2{
+  height: 100%;
+  float: left;
+  width: 10%;
+}
+.row{
+  height: 50px;
+  padding: 20px 50px 0px 30px ;
+}
+/*Navbar Css*/
+.nav{
+  
+  color: white;
+  
+}
+
+.box-2{
+  margin-left: 100px;
+}
+
+.avatar{
+  border-radius: 50%;
+}
+
+
+.column-3{
+  float: left !important;
+  width: 33% !important;
+}
+h2{
+  margin-top: 0px;
+  padding-top: 0px;
+  margin-left: 470px;
+}
+.profile {
+box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%);
+max-width: 300px;
+margin: 20px 50px;
+text-align: center;
+font-family: arial;
+padding: 8px;
+background-color: #5a63a8;;
+border-radius: 40px;
+}
+.name{
+  font-size:25px;
+  color:white;
+}
+.loader{
+  height: 100px;
+  width: 300px;
+  display: none;
+}
+
+
